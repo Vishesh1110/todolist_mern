@@ -5,12 +5,12 @@
 
 
 ## Install Packages
-#### For frontend
+### For frontend
 ```
 cd frontend
 npm install axios react-icons 
 ```
-#### For backend
+### For backend
 ```
 cd backend
 npm install express mongoose cors nodemon
